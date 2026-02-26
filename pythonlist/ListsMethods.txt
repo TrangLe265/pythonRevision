@@ -1,0 +1,26 @@
+"""List Programs
+List Methods
+
+list.append(x) — adds an element to the end
+list.insert(i, x) — inserts element at a specific position
+list.extend(list2) — merges another list into the current one
+list.remove(x) — removes first occurrence of an element
+list.clear() — removes all elements from the list
+list.count(x) — counts how many times an element appears
+list.reverse() — reverses the list in place
+list.copy() — clones/copies a list
+list.index(x) — returns the position of an element
+list.sort() — sorts the list in place
+
+
+Built-in Functions that work on Lists
+
+len(list) — returns the length of the list
+max(list) — returns the largest element
+min(list) — returns the smallest element
+sum(list) — returns the sum of all elements
+sorted(list) — returns a new sorted list without modifying the original
+reversed(list) — returns a reversed iterator
+enumerate(list) — returns index and value pairs when looping
+zip(list1, list2) — combines two lists together
+"""
