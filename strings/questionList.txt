@@ -1,0 +1,17 @@
+That's a huge list! For a test automation trainee assessment, I'd focus on just the high-probability ones. Skip most of it honestly.
+
+**Must know (very likely to appear)**
+- Palindrome check
+- Reverse a string / reverse words
+- Count vowels / character frequency
+- Remove duplicates from a string
+- Check if string contains letters/numbers/special characters
+- Convert string to list and back
+- Split and join
+
+**Good to know (useful patterns)**
+- Maximum/least frequent character (you basically know this with dictionaries)
+- Find words greater than length k
+- Remove punctuation / special characters
+- Check if string is empty
+
